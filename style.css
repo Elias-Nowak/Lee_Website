@@ -17,6 +17,18 @@ div {
     background-color:hsla(0, 0%, 100%, 0.5);
 }
 
+th, td {
+    border: 1px solid black;
+}
+
+th {
+    font-weight:bold;
+}
+
+table {
+    border: 1px solid black;
+    border-radius: 10px;
+}
 
 ul {
     list-style-type: circle;
@@ -34,3 +46,6 @@ a:visited {
     color: green;
 }
 
+.formatLastLine {
+    font-style: italic;
+}
