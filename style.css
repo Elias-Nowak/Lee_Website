@@ -5,6 +5,13 @@ body {
     background-image: url("Images/background.png");
 }
 
+div img {
+    float: right;
+    width: 20%;
+    height: auto;
+    border-radius: 10%;
+}
+
 div {
     padding: 3%;
     background-color:hsla(0, 0%, 100%, 0.5);
