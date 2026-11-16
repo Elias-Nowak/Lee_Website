@@ -1,0 +1,29 @@
+body {
+    font-family: 'Lucida Sans';
+    font-size: 16px;
+    margin: 3%;
+    background-image: url("Images/background.png");
+}
+
+div {
+    padding: 3%;
+    background-color:hsla(0, 0%, 100%, 0.5);
+}
+
+
+ul {
+    list-style-type: circle;
+}
+
+ul ul {
+    list-style-type: square;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: green;
+}
+
